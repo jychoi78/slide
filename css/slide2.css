@@ -52,8 +52,8 @@ dl, ul, ol, menu, li {
 .scene-list{
   width: 100%;
   min-height: 220px;
-  transition-property: margin-left;
-  transition-duration: 0.5s;
+  /*transition-property: margin-left;*/
+  /*transition-duration: 0.5s*/
   transition-timing: ease;
   transition-delay: 0;
 }
